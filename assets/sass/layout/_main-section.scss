@@ -1,0 +1,19 @@
+//contenedor 1
+
+.contenedor1{
+    .contenedor1__img{
+        width: 120px;
+        margin-right: -20px;
+    }
+}
+
+//contenedor 3
+
+.contenedor3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .item{
+      margin: 10px;
+    }
+}

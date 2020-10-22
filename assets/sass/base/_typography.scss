@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+//barra de navegación
+.navegacion__sup{
+    font-weight:$light;
+}
+
+//contenedor 1
+.contenedor1__h2{
+    font-size: 25px;
+    font-weight: $bold;
+    margin-left: -20px;
+}
+.contenedor1__p{
+    font-size: 16px;
+    font-weight:$regular ;
+    color: gray;
+    margin-left: -20px;
+}
+//contenedor 2
+.contenedor2__h2{
+    font-size: 30px;
+}
+//contenedor 3
+
+.contenedor3__h5{
+    font-size: 20px;
+    font-weight: $bold;
+}
+
+.contenedor3__p{
+    font-size: 20px;
+    font-weight:$regular ;
+    color: gray;
+}
